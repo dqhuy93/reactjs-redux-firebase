@@ -1,0 +1,33 @@
+.card-box {
+    background: #fff;
+    padding: 1.5rem;
+    line-height: 1.5rem;
+}
+.product-title{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.box-slide-product{
+    position: relative;
+    padding: 0px 20px 80px 20px;
+}
+.product-id{
+    font-size: 0.8rem;
+    color: #999;
+}
+.add-tocart-detail{
+    border-radius: 0px;
+    background: #f72b3f;
+    box-shadow: none;
+    outline: none;
+    font-size: 0.9rem;
+    color: #FFF !important;
+    padding: 12px 10px;
+}
+/* .slick-thumb {
+    bottom: -80px;
+}
+.slick-thumb li {
+    width: 60px;
+    height: 78px;
+} */

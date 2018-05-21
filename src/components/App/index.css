@@ -1,0 +1,169 @@
+body {
+	padding-top: 80px;
+}
+
+.copyright {
+	padding: 15px 0;
+	font-size: 13px;
+	line-height: 24px;
+	color: #989f9f;
+}
+
+.footer-section {
+	background-color: #dbe1e1;
+}
+
+.login-box {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.login-box .message {
+	margin-top: 15px;
+}
+
+.form-signin {
+	width: 100%;
+	max-width: 420px;
+	padding: 15px;
+	margin: auto;
+	background-color: #FFF;
+}
+.form-signin .alert{
+	padding: 0;
+    border: none;
+    background: none;
+	font-size: 0.8rem;
+	color: #dc3545 !important;
+}
+.form-label-group {
+	position: relative;
+	margin-bottom: 1rem;
+}
+
+.form-label-group>input,
+.form-label-group>label {
+	padding: 0.75rem;
+}
+
+.form-label-group>label {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 100%;
+	margin-bottom: 0;
+	/* Override default `<label>` margin */
+	line-height: 1.5;
+	color: #495057;
+	border: 1px solid transparent;
+	border-radius: .25rem;
+	transition: all .1s ease-in-out;
+}
+
+.form-label-group input::-webkit-input-placeholder {
+	color: transparent;
+}
+
+.form-label-group input:-ms-input-placeholder {
+	color: transparent;
+}
+
+.form-label-group input::-ms-input-placeholder {
+	color: transparent;
+}
+
+.form-label-group input::-moz-placeholder {
+	color: transparent;
+}
+
+.form-label-group input::placeholder {
+	color: transparent;
+}
+
+.form-label-group input:not(:placeholder-shown) {
+	padding-top: 1.3rem;
+	padding-bottom: 0.2rem;
+	height: 50px;
+}
+
+.form-label-group input:not(:placeholder-shown)~label {
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+	font-size: 12px;
+	color: #777;
+}
+
+.product-item .name {
+	font-size: 1rem;
+	font-weight: bold;
+	margin-bottom: 0.3rem;
+}
+
+.product-item .name a {
+	color: #212529 !important;
+}
+
+.product-item .card .overflow-img {
+	position: relative;
+	display: block;
+	height: 180px;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+.product-item .card .overflow-img .card-img-top {
+	position: absolute;
+	top: -50%;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+}
+
+.product-item .card-text {
+	font-size: 0.8rem;
+}
+.price-item-cart{
+	width: 95px;
+}
+.group-quantity .input-group-text {
+	cursor: pointer;
+	min-width: 30px;
+	justify-content: center;
+}
+
+.group-quantity {
+	width: 105px;
+}
+
+.product-item .badge {
+	font-size: 60%;
+}
+.category-product > li{
+    cursor: pointer;
+}
+/* 404 style */
+
+.error-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+.error-actions {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.error-actions .btn {
+	margin-right: 10px;
+	color: #FFF !important;
+}
+/* ./ */
+
+.box-slide-product .slick-prev:before, .box-slide-product .slick-next:before{
+	color: #CCC;
+}
