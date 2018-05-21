@@ -7,6 +7,7 @@
   * firebase
   * react-router
   * redux
+  * [Formik](https://github.com/jaredpalmer/formik) & [Yup](https://github.com/jquense/yup)
 * features:
   * Sign In
   * Sign Up
