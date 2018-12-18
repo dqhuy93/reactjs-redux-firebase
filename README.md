@@ -21,7 +21,7 @@
 
 ## Installation
 
-* `git clone https://github.com/21110027781/reactjs-redux-firebase.git`
+* `git clone https://github.com/dqhuy93/reactjs-redux-firebase.git`
 * `cd reactjs-redux-firebase`
 * `npm install`
 * `npm start`
